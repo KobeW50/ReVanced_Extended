@@ -1,3 +1,20 @@
+[![Static Badge](https://img.shields.io/badge/Documentation-gray?style=flat-square&logo=github)]()
+
+![Static Badge](https://img.shields.io/badge/Reddit-gray?style=flat-square&logo=reddit)
+
+![Static Badge](https://img.shields.io/badge/Telegram-Announcements-gray?style=flat-square&logo=telegram&color=%2326A5E4)
+
+![Static Badge](https://img.shields.io/badge/Telegram-Chat-gray?style=flat-square&logo=telegram&color=%2326A5E4)
+
+![Static Badge](https://img.shields.io/badge/Telegram-GitHub_Notifications-gray?style=flat-square&logo=telegram&color=%2326A5E4)
+
+![Static Badge](https://img.shields.io/badge/Discord-gray?style=flat-square&logo=discord)
+
+![Static Badge](https://img.shields.io/badge/Translations-YouTube-gray?style=flat-square&logo=crowdin&color=lightgray)
+
+[![Static Badge](https://img.shields.io/badge/Translations-YT_Music-gray?style=flat-square&logo=crowdin&color=lightgray)](https://crowdin.com/project/revancedmusicextended)
+
+
 # Issue Center
 
 The purpose of this repository is to help you report any issues you encounter and submit new suggestions.
