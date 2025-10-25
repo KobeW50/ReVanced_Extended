@@ -15,6 +15,7 @@
 <a href="https://crowdin.com/project/revancedmusicextended">
 
   <img src="https://img.shields.io/badge/Translations-YT_Music-gray?style=flat-square&logo=crowdin&color=lightgray"/>
+  
 </a>
 
 [![Static Badge](https://img.shields.io/badge/Translations-YT_Music-gray?style=flat-square&logo=crowdin&color=lightgray)](https://crowdin.com/project/revancedmusicextended)
